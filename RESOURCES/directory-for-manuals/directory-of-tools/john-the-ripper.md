@@ -1,0 +1,2 @@
+#os/linux/tools/hacking 
+John the Ripper is the granddaddy of Linux based password cracking tools. Lightweight and fast, it can auto-detect the type of hash and then begin a dictionary attack first followed by a brute force attack, if dictionary attack fails. This command line tool is short on pretty user interfaces, but long on ease-of-use and effectiveness.
