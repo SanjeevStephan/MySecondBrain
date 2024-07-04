@@ -47,3 +47,15 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+## DIRECTORIES THAT I DONT WANT TO UPLOAD
+.obsidian
+.icons
+ARCHIVES
+INTELLIGENCE
+PROJECTS
+SKILLS
+
+
+
+
