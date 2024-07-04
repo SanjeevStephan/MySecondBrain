@@ -48,7 +48,7 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-## DIRECTORIES THAT I DONT WANT TO UPLOAD
+## DIRECTORIES THAT I DONT WANT TO UPLOAD ( On Windows )
 .obsidian
 .icons
 ARCHIVES
