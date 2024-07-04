@@ -34,4 +34,3 @@ You're in control. Review or clear specific memories, restart from scratch, or t
 # References
 - [The best AI chatbots of 2024: ChatGPT, Copilot and worthy alternatives | ZDNET](https://www.zdnet.com/article/best-ai-chatbot/)
 - [ChatGPT](https://chatgpt.com/)
-- 
