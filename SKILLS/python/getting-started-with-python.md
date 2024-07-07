@@ -14,7 +14,7 @@ Once the process is complete, we can check the version of Python 3 that is insta
 | python3 -V |
 | ---------- |
 You will receive output in the terminal window that will let you know the version number.
-```
+```bash
 # OUTPUT
 
 ┌──(cipher㉿watchdog)-[~]
@@ -77,7 +77,7 @@ With this installed, we are ready to create environments
 | STEP-04 |                                   |                            |
 
 
-```
+```bash
                                                                                 ┌──(cipher㉿watchdog)-[~/TEST/python101/test_env]
 └─$ python3 -m venv first_python_env
 
@@ -139,7 +139,7 @@ print("Hello, World!")
 
 | STEP-04 | Execute the Python Code | `python helloworld.py` |
 | ------- | ----------------------- | ---------------------- |
-```                                           
+```bash                                           
 ┌──(first_python_env)─(cipher㉿watchdog)-[~/…/python101/first_python_env/script]
 └─$ python helloworld.py 
 Hello World,Python Programmer
