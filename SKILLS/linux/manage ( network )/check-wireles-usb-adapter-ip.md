@@ -1,4 +1,4 @@
-#skills/hacking/networking 
+#skills/networking 
 
 the iwconfig command particularly important 
 1. If you have an external USB, you can use the iwconfig command to gather crucial information for wireless hacking such as the adapter’s IP address, its MAC address, what mode it’s in, and more.

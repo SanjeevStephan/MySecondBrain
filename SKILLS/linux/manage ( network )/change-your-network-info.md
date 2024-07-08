@@ -1,4 +1,4 @@
-#skills/hacking/networking 
+#skills/networking 
 
 Being able to change your IP address and other network information is a
 useful skill because it will help you access other networks while appearing

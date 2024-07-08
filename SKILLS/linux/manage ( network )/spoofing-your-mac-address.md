@@ -1,3 +1,3 @@
-#skills/hacking/networking 
+#skills/networking 
 # Spoofing Your MAC Address
 

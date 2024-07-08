@@ -1,4 +1,4 @@
-#skills/hacking/networking 
+#skills/networking 
 
 # Analyzing Networks with
 

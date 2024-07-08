@@ -1,4 +1,4 @@
-#skills/hacking/networking 
+#skills/networking 
 
 # DNS is the service that translates a domain name like hackers-arise.com to the appropriate IP address; that way, your system knows how to get to it.
 
