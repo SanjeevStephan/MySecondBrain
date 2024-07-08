@@ -1,4 +1,4 @@
-#skills/hacking/networking 
+#skills/networking 
 
 ## Linux has a Dynamic Host Configuration Protocol (DHCP) server
 
