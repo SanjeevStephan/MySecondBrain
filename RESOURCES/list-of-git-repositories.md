@@ -2,10 +2,12 @@
 
 Git Repository.
 
-|Title|Repository|Author|Description|
-|---|---|---|---|
-|Evil-Droid|https://github.com/M4sc3r4n0/Evil-Droid|M4sc3r4n0||
-|apkinjector|https://github.com/jbreed/apkinjector|||
+| Title              | Repository                                                 | Author      | Description                                                            |
+| ------------------ | ---------------------------------------------------------- | ----------- | ---------------------------------------------------------------------- |
+| Evil-Droid         | https://github.com/M4sc3r4n0/Evil-Droid                    | M4sc3r4n0   |                                                                        |
+| apkinjector        | https://github.com/jbreed/apkinjector                      |             |                                                                        |
+|                    | https://github.com/themsaid/ibis/                          |             | A PHP tool that helps you write eBooks in markdown and convert to PDF. |
+| Crips Docker ebook | https://github.com/bobbyiliev/introduction-to-docker-ebook | Bobby Iliev |                                                                        |
 
 
 

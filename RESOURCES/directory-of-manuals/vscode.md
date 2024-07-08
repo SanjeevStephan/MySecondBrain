@@ -103,3 +103,21 @@ so i will remove the `/home/cipher/` and leave the `/` forward slash for root ac
 | If Promoted. Press `Yes,I Trust the authors` |
 | -------------------------------------------- |
 | ![[Pasted image 20240630092129.png]]         |
+
+
+## Install Extensions
+
+### Blackbox.ai
+
+![[Pasted image 20240707184009.png]]
+
+1. Visit The [URL](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox) and Copy the Command as Follows
+
+ Installation
+
+Launch VS Code Quick Open (`Ctrl+P`), paste the following command, and press enter.
+
+```javascript
+ext install Blackboxapp.blackbox
+```
+

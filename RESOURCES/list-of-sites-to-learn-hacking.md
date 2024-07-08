@@ -1,5 +1,20 @@
 #resources 
 
+
+
+
+| Website    | URL                                                                   | Resources                                                      |
+| ---------- | --------------------------------------------------------------------- | -------------------------------------------------------------- |
+| guru99     | [Go To Websie](https://www.guru99.com/ethical-hacking-tutorials.html) |                                                                |
+| hackthebox | [Go To Website ](https://www.hackthebox.com/hacker)                   | [Learn](https://www.hackthebox.com/resources/hacking-glossary) |
+|            |                                                                       |                                                                |
+|            |                                                                       |                                                                |
+
+
+
+
+
+
 # PDFs
 
 # Resources

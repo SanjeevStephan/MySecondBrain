@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>How websites work</title>
+    <link rel="stylesheet" href="assets/css/style.css"></link>
+</head>
+
+<body>
+    <div id='html-code-box'>
+        <div id='html-bar'>
+            <span id='html-url'>https://vulnerable-site.com</span>
+        </div>
+        <div class='theme' id='html-code'>
+            <div class='logo-pos'><img src='assets/img/white-vuln-website-logo.png'></div>
+            <p id='login-msg'></p>
+            <form method='post' id='form' autocomplete="off">
+                <div class='form-field'>
+                    <input class="input-text" type="text" name="username" placeholder="Username..">
+                </div>
+                <div class='form-field'>
+                    <input class="input-text" type="password" name="password" placeholder="Password..">
+                </div>
+                <button onclick="login()" type='button' class='login'>Login</button>
+                <!--
+                    TODO: Remove test credentials!
+                        Username: admin
+                        Password: testpasswd
+                -->
+            </form>
+            <div class="footer">Copyright Â© Vulnerable Website</div>
+        </div>
+    </div>
+    <script src='assets/js/script.js'></script>
+</body>
+
+</html>
