@@ -1,4 +1,27 @@
-#indexof/ai-chatbots
+#collections-of/indexof/ai-chatbots
+
+## Pinned Ai-Chatbots
+#resources/ai-chatbots
+
+> Chatbots 
+
+
+| Microsoft Co-Pilot | [Copilot (microsoft.com)](https://copilot.microsoft.com/)                             |
+| ------------------ | ------------------------------------------------------------------------------------- |
+| Blackbox AI        | [Chat Blackbox: AI Code Generation, Code Chat, Code Search](https://www.blackbox.ai/) |
+> AI Notebooks
+
+| Google Notebook LM | [NotebookLM (google.com)](https://notebooklm.google.com/)                     |
+| ------------------ | ----------------------------------------------------------------------------- |
+| Microsoft Notebook | [Copilot Notebook (microsoft.com)](https://copilot.microsoft.com/?showntbk=1) |
+|                    |                                                                               |
+
+
+
+
+
+
+## Index of Chatbots
 
 | Best AI chatbots              | Language model                             | Key features                                                                                                                                                                          | Access AI                                                                             |
 | ----------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |

@@ -1,4 +1,4 @@
-#indexof/tags
+#collections-of/indexof/tags
 
 ## All Tags
 

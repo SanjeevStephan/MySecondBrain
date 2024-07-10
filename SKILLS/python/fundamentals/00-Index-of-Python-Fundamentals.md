@@ -1,4 +1,4 @@
-#indexof/python-fundamentals 
+#collections-of/indexof/python-fundamentals 
 
 ## Getting Started with Python
 

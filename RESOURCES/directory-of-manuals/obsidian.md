@@ -68,7 +68,15 @@ Don't
 ## Why use Obsidian to Digitalize My Brain
 
 But First, Let's Understand why there is a need to do so..!
-![[why-digitalize-my-brain#Why i need to digitalize my brain.]]
+ 
+
+
+
+
+
+## How to 
+
+### how to use templates.
 
 
 
