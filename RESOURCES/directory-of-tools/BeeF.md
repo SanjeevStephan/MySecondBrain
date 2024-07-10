@@ -1,2 +1,0 @@
-#os/linux/tools/hacking 
-BeeF is the Browser Exploitation Framework. This tool enables the attacker to exploit the target's browser and then conduct a multitude of nefarious activities in their browser.

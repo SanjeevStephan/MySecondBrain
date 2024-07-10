@@ -1,3 +1,0 @@
-#os/linux/tools/hacking 
-
-Shodan is the world's most dangerous search engine. Shodan scans the Internet not for keywords, but instead for web banners. It pulls the banner from nearly every IP address and then indexes that banner information for searching. This is a an essential tool for finding sites that have useful characteristics such as a particular web server, operating system, type of IoT or protocol.

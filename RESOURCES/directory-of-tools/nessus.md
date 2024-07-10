@@ -1,2 +1,0 @@
-#os/linux/tools/hacking 
-Nessus is the most popular vulnerability scanner. Originally developed as a open source project, it is now owned by Tenable. Nessus utilizes a vast database of known vulnerabilities and then probes the systems for evidence of their existence.
